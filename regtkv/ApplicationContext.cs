@@ -14,6 +14,5 @@ namespace regtkv
 
         public ApplicationContext() : base("DefaultConnection") { }
 
-
     }
 }
